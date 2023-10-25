@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Welcome to the Monito Dev Content Hub!
+## Lessons
+
+[Space Shooter](./docs/spaceshooter.md)

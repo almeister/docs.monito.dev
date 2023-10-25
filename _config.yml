@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monito Dev
+title: Monito Dev Docs
 email: alex.coaton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the Monito Dev Hub, where you'll find all the resources you need to code-along with our lessons.
-baseurl: '/docs' # the subpath of your site, e.g. /blog
+  Welcome to Monito Dev Docs, where you'll find all the resources you need to code-along with our lessons.
+baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
