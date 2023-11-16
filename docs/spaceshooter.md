@@ -1,8 +1,8 @@
 # Space Shooter Lessons
 
-![Space Shooter Example](/images/space-shooter-small.png)
+![Space Shooter Example](/images/construct-game-dev-small.png)
 
-### Intro to Game Dev with Construct 3
+### 1. Intro to Game Dev with Construct 3
 
 #### Lesson Resources
 
