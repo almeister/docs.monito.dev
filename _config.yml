@@ -23,7 +23,7 @@ email: alex.coaton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Monito Dev Docs, where you'll find all the resources you need to code-along with our lessons.
 baseurl: '/' # the subpath of your site, e.g. /blog
-include: ['docs']
+include: ['docs', 'images']
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
