@@ -7,4 +7,4 @@ layout: home
 
 ## Lessons
 
-[Space Shooter](./docs/spaceshooter.md)
+[Construct 3 Space Shooter](./docs/spaceshooter.md)
