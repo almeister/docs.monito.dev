@@ -2,24 +2,43 @@
 
 ![Space Shooter Example](/images/construct-game-dev-small.png)
 
-### 1. Intro to Game Dev with Construct 3
+## All Lessons Playlist
 
-#### Lesson Content
+<a href="" target="_blank"></a>
 
-1. [Youtube Tutorial](https://www.youtube.com/watch?v=GSPPApvr1SE)
-2. [Slides](/docs/1%20-%20Intro%20to%20Game%20Dev%20with%20Construct%203.pdf)
+<a href="https://www.youtube.com/watch?v=GSPPApvr1SE&list=PLdrUYCkoPdy565MYTRCqfsBKQaNV6XGqF" target="_blank">Youtube Playlist</a>
 
-### 2. Sprite Animations in Construct 3
+## 1. Intro to Game Dev
 
-#### Lesson Content
+### Lesson Content
 
-1. [Youtube Tutorial](https://www.youtube.com/watch?v=nDdwYM-PxWM)
-2. [Slides](/docs/2%20-%20Sprite%20Animations%20in%20Construct%203.pdf)
+1. <a href="https://www.youtube.com/watch?v=GSPPApvr1SE" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/1%20-%20Intro%20to%20Game%20Dev%20with%20Construct%203.pdf" target="_blank">Slides</a>
 
-#### Extras
+## 2. Sprite Animations
 
-1. [Youtube Tutorial - Sprite size, scale and transparent backgrounds in GIMP](https://www.youtube.com/watch?v=YBySw3I7lDo)
-2. [Selecting and deslecting shapes in Gimp](https://www.gimp-forum.net/Thread-Deselecting-part-of-a-fuzzy-select)
-3. [A free pixel art generator](https://pixelied.com/features/pixel-art-generator)
-4. [Youtube Tutorial - Pixel art for beginners](https://www.youtube.com/watch?v=tFsETEP01k8)
-5. [Construct 3 Docs](https://www.construct.net/en/make-games/manuals/construct-3)
+### Lesson Content
+
+1. <a href="https://www.youtube.com/watch?v=nDdwYM-PxWM" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/2%20-%20Sprite%20Animations%20in%20Construct%203.pdf" target="_blank">Slides</a>
+
+### Extras
+
+1. <a href="https://www.youtube.com/watch?v=YBySw3I7lDo" target="_blank">Youtube Tutorial - Sprite size, scale and transparent backgrounds in GIMP</a>
+2. <a href="https://www.gimp-forum.net/Thread-Deselecting-part-of-a-fuzzy-select" target="_blank">Selecting and deselecting shapes in Gimp</a>
+3. <a href="https://pixelied.com/features/pixel-art-generator" target="_blank">A free pixel art generator</a>
+4. <a href="https://www.youtube.com/watch?v=tFsETEP01k8" target="_blank">Youtube Tutorial - Pixel art for beginners</a>
+5. <a href="https://www.construct.net/en/make-games/manuals/construct-3" target="_blank">Construct 3 Docs</a>
+
+## 3. Coding with Event Sheets
+
+### Lesson Content
+
+1. <a href="https://www.youtube.com/watch?v=7mB41KM1_Ls" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/3%20-%20Events%20and%20Interactions.pdf" target="_blank">Slides</a>
+
+### Extras
+
+1. <a href="https://free-sound-effects.net/laser" target="_blank">Free Sound Effects</a>
+2. <a href="https://itch.io/game-assets/free/tag-sound-effects" target="_blank">Sound Effects at itch.io Game Assets</a>
+3. <a href="https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc" target="_blank">Space Sounds at Open Game Art</a>
