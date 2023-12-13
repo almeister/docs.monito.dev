@@ -42,6 +42,7 @@
 1. <a href="https://free-sound-effects.net/laser" target="_blank">Free Sound Effects</a>
 2. <a href="https://itch.io/game-assets/free/tag-sound-effects" target="_blank">Sound Effects at itch.io Game Assets</a>
 3. <a href="https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc" target="_blank">Space Sounds at Open Game Art</a>
+4. <a href="https://soundimage.org/sfx-scifi/" target="_blank">More free sounds at Sound Image</a>
 
 ## 4. Variables and Conditions
 
@@ -54,3 +55,14 @@
 
 1. <a href="https://www.youtube.com/watch?v=etkvjiiGs1c" target="_blank">Warping Images in Gimp</a>
 2. <a href="https://blog.yarsalabs.com/creating-sprite-sheets-in-gimp-using-tilemancer/" target="_blank">Tilemancer - A Gimp plugin for working with sprite sheets</a>
+
+## 5. Feedback and User Interface
+
+### Lesson Content
+
+1. <a href="https://www.youtube.com/watch?v=6rGw33O3MKY" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/5 - Feedback and UI.pdf" target="_blank">Slides</a>
+
+### Extras
+
+1. <a href="https://www.youtube.com/watch?v=fpS_1v5Xmc8" target="_blank">Futuristic UI with Gimp</a>
