@@ -66,3 +66,10 @@
 ### Extras
 
 1. <a href="https://www.youtube.com/watch?v=fpS_1v5Xmc8" target="_blank">Futuristic UI with Gimp</a>
+
+## 6. Introduction to AI
+
+### Lesson Content
+
+1. <a href="https://youtu.be/N3hmKlwTG4Y" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/6 - Intro to AI.pdf" target="_blank">Slides</a>
