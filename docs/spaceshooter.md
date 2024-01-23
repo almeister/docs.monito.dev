@@ -73,3 +73,10 @@
 
 1. <a href="https://youtu.be/N3hmKlwTG4Y" target="_blank">Youtube Tutorial</a>
 2. <a href="/docs/6 - Intro to AI.pdf" target="_blank">Slides</a>
+
+## 7. Publishing and Feedback
+
+### Lesson Content
+
+1. <a href="https://www.youtube.com/watch?v=qGKrKWKeG8o" target="_blank">Youtube Tutorial</a>
+2. <a href="/docs/7 - Publishing and Feedback.pdf" target="_blank">Slides</a>
