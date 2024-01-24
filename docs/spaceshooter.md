@@ -80,3 +80,7 @@
 
 1. <a href="https://www.youtube.com/watch?v=qGKrKWKeG8o" target="_blank">Youtube Tutorial</a>
 2. <a href="/docs/7 - Publishing and Feedback.pdf" target="_blank">Slides</a>
+
+### Extras
+
+1. <a href="https://www.construct.net/en/tutorials/publish-c2c3-html5-game-itch-2363" target="_blank">Publish an html5 build to itch.io</a>
