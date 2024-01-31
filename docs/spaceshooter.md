@@ -84,3 +84,13 @@
 ### Extras
 
 1. <a href="https://www.construct.net/en/tutorials/publish-c2c3-html5-game-itch-2363" target="_blank">Publish an html5 build to itch.io</a>
+
+## 8. Finishing the Game with a Title Screen and Music
+
+### Lesson Content
+
+1. <a href="https://www.youtube.com/watch?v=1zffAVA_NDs" target="_blank">Youtube Tutorial</a>
+
+### Extras
+
+1. <a href="https://www.youtube.com/watch?v=WC0okq2vvco" target="_blank">Making Your Game's Title Screen by Lab Rat</a>
